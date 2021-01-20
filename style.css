@@ -1,9 +1,9 @@
 /*Navegadores*/
-p.Navegadores[
+p.Navegadores{
 
         color: red;
 
-]
+}
 p[
 
         color: green;
