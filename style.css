@@ -4,13 +4,13 @@ p.Navegadores{
         color: red;
 
 }
-p[
+p{
 
         color: green;
 
-]
-p#Definicion[
+}
+p#Definicion{
 
         color: blue;
 
-]
+}
